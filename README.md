@@ -1,4 +1,4 @@
-  # CoinXchange
+  # CoinXchange (  Online Cryptocurrency Website )
    - CoinXchange is an online cryptocurrency website that is built for tracking the live prices of cryptocurrencies.
    -  Tech Stack Used: HTML, CSS, JS, and ReactJS.
    -  The app fetches data from a cryptocurrency API and displays it in a user-friendly format. Users can track specific coins,
